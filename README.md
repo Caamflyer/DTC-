@@ -1,5 +1,4 @@
-Urlols-Html-Css
+DTC+ Migration to Bootstrap 3 Source Code
 ================
-[Urlols.com](http://www.urlols.com)
+[DTC.bz](http://www.dtc.bz/DTC+)
 
-Urlols Html+ Css
